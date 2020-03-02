@@ -39,7 +39,7 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    fun setupCarousel(){
+    private fun setupCarousel(){
 
         viewPager.offscreenPageLimit = 1
 
