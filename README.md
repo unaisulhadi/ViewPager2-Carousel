@@ -1,6 +1,8 @@
 # ViewPager2-Carousel
 A simple Carousel for ViewPager2
 
+![Screenshot](https://github.com/unaisulhadi/ViewPager2-Carousel/blob/master/screenshot.jpg)
+![Demo Video](https://github.com/unaisulhadi/ViewPager2-Carousel/blob/master/DEMO.gif)
 
 ## Horizontal Carousel VP2
 
@@ -79,3 +81,7 @@ private fun setupCarousel(){
     }
     
 ```
+
+
+
+### Courtesy : Stackoverflow, Medium
